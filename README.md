@@ -8,6 +8,7 @@
 ### Tools & Frameworks
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal-313131?style=flat&logo=unrealengine&logoColor=white)
+![3ds Max](https://img.shields.io/badge/3ds_Max-00A4E4?style=flat&logo=3ds-max&logoColor=white)
 
 ### Audio & Music Tools
 ![FMOD](https://img.shields.io/badge/FMOD-000000?style=flat&logo=fmod&logoColor=white)
@@ -44,3 +45,9 @@
    
 6. [NetworkRPGServer](https://github.com/HighCaffeine/NetworkRPGServer)  
    청강대 졸업작품 프로젝트
+
+
+
+### Contact  
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/266071920116498433)) 
+✉️ ghwns9099@naver.com
