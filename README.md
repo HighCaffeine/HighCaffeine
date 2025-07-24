@@ -36,7 +36,8 @@
    청강대 2학년 프로젝트 RPG 서버
 
 
-   **추가예정**
+
+## **추가예정**
 5. [NetworkRPGServer](https://github.com/HighCaffeine/NetworkRPGServer)  
    청강대 학기작 프로젝트
    
