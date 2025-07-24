@@ -21,7 +21,7 @@
 
 
 
-## HighCaffeine's Repositories
+## Repositories
 
 1. [WakEnt_Story](https://github.com/HighCaffeine/WakEnt_Story)  
    이세계아이돌 경영 시뮬레이션 팬게임
