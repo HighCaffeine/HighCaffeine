@@ -49,5 +49,5 @@
 
 
 ### Contact  
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/266071920116498433)) 
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/266071920116498433) 
 ✉️ ghwns9099@naver.com
