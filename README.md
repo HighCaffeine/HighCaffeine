@@ -47,7 +47,7 @@
    청강대 졸업작품 프로젝트
 
 7. [VirtualMotionCapture System Notion](https://www.notion.so/Virtual-Motion-Capture-22263b92a03c8057830fd5fb838639cf)
-   이세계아이돌 방송용 유니티 모션캡쳐 시스템 노션 정리
+   이세계아이돌 방송용 유니티 모션캡쳐 시스템 노션
 
 
 
