@@ -28,10 +28,7 @@
    이세계아이돌 경영 시뮬레이션 팬게임
 
 2. [VirtualMotionCapture](https://github.com/HighCaffeine/VirtualMotionCapture)
-   
-   [VirtualMotionCapture System Notion]([https://www.notion.so/Virtual-Motion-Capture-22263b92a03c8057830fd5fb838639cf](https://www.notion.so/Virtual-Motion-Capture-22263b92a03c8057830fd5fb838639cf))
-   이세계아이돌 방송용 유니티 모션캡쳐 시스템 노션
-
+   [VirtualMotionCapture System Notion](https://www.notion.so/Virtual-Motion-Capture-22263b92a03c8057830fd5fb838639cf)
    이세계아이돌 방송용 유니티 모션캡쳐 시스템
    (Xsens, Manus, VSeeFace 기반)
 
