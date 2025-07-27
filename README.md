@@ -27,8 +27,10 @@
 1. [WakEnt_Story](https://github.com/HighCaffeine/WakEnt_Story)  
    이세계아이돌 경영 시뮬레이션 팬게임
 
-2. [VirtualMotionCapture](https://github.com/HighCaffeine/VirtualMotionCapture)
-   [![Notion Icon](https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png) VirtualMotionCapture System Notion](https://www.notion.so/Virtual-Motion-Capture-22263b92a03c8057830fd5fb838639cf)
+<a href="https://www.notion.so/Virtual-Motion-Capture-22263b92a03c8057830fd5fb838639cf" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" width="20" />
+  VirtualMotionCapture System Notion
+</a>
 
    이세계아이돌 방송용 유니티 모션캡쳐 시스템
    (Xsens, Manus, VSeeFace 기반)
