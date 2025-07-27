@@ -33,8 +33,8 @@
   VirtualMotionCapture System Notion
 </a>
 
-   이세계아이돌 방송용 유니티 모션캡쳐 시스템
-   (Xsens, Manus, VSeeFace 기반)
+      이세계아이돌 방송용 유니티 모션캡쳐 시스템
+      (Xsens, Manus, VSeeFace 기반)
 
 3. [VirtualMotionCaptureServer](https://github.com/HighCaffeine/VirtualMotionCaptureServer)  
    AWS 모션캡쳐 C++ 서버 (CMake)
