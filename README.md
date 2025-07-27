@@ -36,10 +36,10 @@
    이세계아이돌 방송용 유니티 모션캡쳐 시스템
    (Xsens, Manus, VSeeFace 기반)
 
-4. [VirtualMotionCaptureServer](https://github.com/HighCaffeine/VirtualMotionCaptureServer)  
+3. [VirtualMotionCaptureServer](https://github.com/HighCaffeine/VirtualMotionCaptureServer)  
    AWS 모션캡쳐 C++ 서버 (CMake)
 
-5. [NetworkRPGServer](https://github.com/HighCaffeine/NetworkRPGServer)  
+4. [NetworkRPGServer](https://github.com/HighCaffeine/NetworkRPGServer)  
    청강대 2학년 프로젝트 RPG 서버
 
 
