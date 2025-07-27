@@ -27,14 +27,17 @@
 1. [WakEnt_Story](https://github.com/HighCaffeine/WakEnt_Story)  
    이세계아이돌 경영 시뮬레이션 팬게임
 
-2. [VirtualMotionCapture](https://github.com/HighCaffeine/VirtualMotionCapture)  
+2. [VirtualMotionCapture](https://github.com/HighCaffeine/VirtualMotionCapture)
+   [VirtualMotionCapture System Notion]([https://www.notion.so/Virtual-Motion-Capture-22263b92a03c8057830fd5fb838639cf](https://www.notion.so/Virtual-Motion-Capture-22263b92a03c8057830fd5fb838639cf))
+   이세계아이돌 방송용 유니티 모션캡쳐 시스템 노션
+
    이세계아이돌 방송용 유니티 모션캡쳐 시스템
    (Xsens, Manus, VSeeFace 기반)
 
-3. [VirtualMotionCaptureServer](https://github.com/HighCaffeine/VirtualMotionCaptureServer)  
+4. [VirtualMotionCaptureServer](https://github.com/HighCaffeine/VirtualMotionCaptureServer)  
    AWS 모션캡쳐 C++ 서버 (CMake)
 
-4. [NetworkRPGServer](https://github.com/HighCaffeine/NetworkRPGServer)  
+5. [NetworkRPGServer](https://github.com/HighCaffeine/NetworkRPGServer)  
    청강대 2학년 프로젝트 RPG 서버
 
 
@@ -46,8 +49,6 @@
 6. [NetworkRPGServer](https://github.com/HighCaffeine/NetworkRPGServer)  
    청강대 졸업작품 프로젝트
 
-7. [VirtualMotionCapture System Notion](https://www.notion.so/Virtual-Motion-Capture-22263b92a03c8057830fd5fb838639cf)
-   이세계아이돌 방송용 유니티 모션캡쳐 시스템 노션
 
 
 
