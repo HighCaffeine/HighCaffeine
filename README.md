@@ -28,7 +28,7 @@
    이세계아이돌 경영 시뮬레이션 팬게임
 
 2. [VirtualMotionCapture](https://github.com/HighCaffeine/VirtualMotionCapture)
-      <a href="https://www.notion.so/Virtual-Motion-Capture-22263b92a03c8057830fd5fb838639cf" target="_blank">
+<a href="https://www.notion.so/Virtual-Motion-Capture-22263b92a03c8057830fd5fb838639cf" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" width="20" />
   VirtualMotionCapture System Notion
 </a>
