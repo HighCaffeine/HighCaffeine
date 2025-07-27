@@ -32,6 +32,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" width="20" />
   VirtualMotionCapture System Notion
 </a>
+
    이세계아이돌 방송용 유니티 모션캡쳐 시스템
    (Xsens, Manus, VSeeFace 기반)
 
