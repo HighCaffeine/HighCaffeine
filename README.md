@@ -24,8 +24,8 @@
 
 ## Repositories
 
-1. [WakEnt_Story](https://github.com/HighCaffeine/WakEnt_Story)  
-   이세계아이돌 경영 시뮬레이션 팬게임
+1. [WakEnt_Story](https://github.com/HighCaffeine/WakEnt_Story) 이세계아이돌 경영 시뮬레이션 팬게임
+   
 
 2. [VirtualMotionCapture](https://github.com/HighCaffeine/VirtualMotionCapture)
    이세계아이돌 방송용 유니티 모션캡쳐 시스템
@@ -37,20 +37,20 @@
 
    
 
-3. [VirtualMotionCaptureServer](https://github.com/HighCaffeine/VirtualMotionCaptureServer)  
-   AWS 모션캡쳐 C++ 서버 (CMake)
+3. [VirtualMotionCaptureServer](https://github.com/HighCaffeine/VirtualMotionCaptureServer) AWS 모션캡쳐 C++ 서버 (CMake)
+   
 
-4. [NetworkRPGServer](https://github.com/HighCaffeine/NetworkRPGServer)  
-   청강대 2학년 프로젝트 RPG 서버
+4. [NetworkRPGServer](https://github.com/HighCaffeine/NetworkRPGServer) 청강대 2학년 프로젝트 RPG 서버
+   
 
 
 
 ## **추가예정**
-5. [NetworkRPGServer](https://github.com/HighCaffeine/NetworkRPGServer)  
-   청강대 학기작 프로젝트
+5. [NetworkRPGServer](https://github.com/HighCaffeine/NetworkRPGServer) 청강대 학기작 프로젝트 
    
-6. [NetworkRPGServer](https://github.com/HighCaffeine/NetworkRPGServer)  
-   청강대 졸업작품 프로젝트
+   
+6. [NetworkRPGServer](https://github.com/HighCaffeine/NetworkRPGServer) 청강대 졸업작품 프로젝트
+   
 
 
 
