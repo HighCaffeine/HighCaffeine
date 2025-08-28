@@ -43,12 +43,11 @@
 4. [NetworkRPGServer](https://github.com/HighCaffeine/NetworkRPGServer) 청강대 2학년 프로젝트 RPG 서버
    
 
+5. [ColoringNightmare](https://github.com/HighCaffeine/SemesterProject) 청강대 학기작 프로젝트
+
 
 
 ## **추가예정**
-5. [ColoringNightmare](https://github.com/HighCaffeine/SemesterProject) 청강대 학기작 프로젝트 
-   
-   
 6. [NetworkRPGServer](https://github.com/HighCaffeine/NetworkRPGServer) 청강대 졸업작품 프로젝트
    
 
