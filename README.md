@@ -12,6 +12,7 @@
 
 ### Audio & Music Tools
 ![FMOD](https://img.shields.io/badge/FMOD-000000?style=flat&logo=fmod&logoColor=white)
+![Wwise](https://img.shields.io/badge/Wwise-000000?style=flat&logo=wwise&logoColor=white)
 ![Cakewalk](https://img.shields.io/badge/Cakewalk-FF6600?style=flat&logo=cakewalk&logoColor=white)
 
 ### Databases
@@ -19,6 +20,7 @@
 
 ### DevOps & Infra
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
 
 
