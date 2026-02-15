@@ -48,7 +48,7 @@
 
 5. [DreamCraft](https://github.com/HighCaffeine/DreamCraft) 청강대 학기작 프로젝트
 
-6. [CKFinalProject]([https://github.com/HighCaffeine/NetworkRPGServer](https://github.com/HighCaffeine/CKFinalProject)) 청강대 졸업작품 프로젝트
+6. [CKFinalProject](https://github.com/HighCaffeine/CKFinalProject) 청강대 졸업작품 프로젝트
    
 
 
